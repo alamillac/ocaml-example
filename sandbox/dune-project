@@ -1,0 +1,7 @@
+(lang dune 3.6)
+
+(name sandbox)
+
+(package
+ (name sandbox)
+ (depends ocaml dune))
